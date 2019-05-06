@@ -1,0 +1,61 @@
+{  
+    "users":[  
+       {  
+          "userId":"1",
+          "username":"yogesh",
+          "email":"yogesh@flujo.io",
+          "addresses":[  
+             {  
+                "line1":"Lorem ipsum rd 1",
+                "locality":"Hydrebad",
+                "state":"TS",
+                "pin":"000000000"
+             },
+             {  
+                "line1":"Lorem ipsum rd 2",
+                "locality":"Pune",
+                "state":"MH",
+                "pin":"0000000001"
+             }
+          ]
+       },
+       {  
+          "userId":"2",
+          "username":"Swetha",
+          "email":"hr@flujo.io",
+          "addresses":[  
+             {  
+                "line1":"Lorem ipsum rd 3",
+                "locality":"Hydrebad",
+                "state":"TS",
+                "pin":"000000003"
+             },
+             {  
+                "line1":"Lorem ipsum rd 4",
+                "locality":"Chennai",
+                "state":"TN",
+                "pin":"0000000004"
+             }
+          ]
+       },
+       {  
+          "userId":"3",
+          "username":"Sourav",
+          "email":"sourav@flujo.io",
+          "addresses":[  
+             {  
+                "line1":"Lorem ipsum rd 5",
+                "locality":"Hydrebad",
+                "state":"TS",
+                "pin":"000000005"
+             },
+             {  
+                "line1":"Lorem ipsum rd 6",
+                "locality":"Kolkata",
+                "state":"WB",
+                "pin":"0000000007"
+             }
+          ]
+       }
+    ]
+ }
